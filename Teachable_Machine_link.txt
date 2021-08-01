@@ -1,0 +1,3 @@
+https://teachablemachine.withgoogle.com/models/Mk2AR93Sy/ (Direct Tecahable Machine link)
+
+https://teachablemachine.withgoogle.com/models/Mk2AR93Sy/model.json (Direct Tecahable Machine link + model.json)
